@@ -1,5 +1,5 @@
 
-### Hey I am Wendy  :wave:
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=F77629&width=435&lines=Hey+I+am+Wendy)](https://git.io/typing-svg)
 
 I'm a full stack software engineer with a Master degree of Management of Information System and work experience in Cyber Security who recently graduated from App Academy's intensive coding bootcamp.
 
