@@ -1,7 +1,6 @@
 
 ### Hey I am Wendy  :wave:
-#### I'm a full stack software engineer with a Master degree of Management of Information System and work experience in Cyber Security.
-
+#### I'm a full stack software engineer with a Master degree of Management of Information System and work experience in Cyber Security who recently graduated from App Academy's intensive 6-month coding bootcamp.
 
 ## :computer: Skills
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -21,8 +20,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YYYWeee&layout=pie)](https://github.com/YYYWeee/github-readme-stats)
 
-- :yellow_heart: My passions
-Technology and software
+
 
 
 
