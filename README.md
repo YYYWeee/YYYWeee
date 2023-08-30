@@ -1,6 +1,9 @@
 
 ### Hey I am Wendy  :wave:
 I'm a full stack software engineer with a Master degree of Management of Information System and work experience in Cyber Security who recently graduated from App Academy's intensive coding bootcamp.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 ## :computer: Skills
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
