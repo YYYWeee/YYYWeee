@@ -26,8 +26,8 @@ I'm a full stack software engineer with a Master degree of Management of Informa
 
 # Contact me
 
-- :globe_with_meridians: [Portfolio](http://wendyckuo.com/)
-- [Linkedin](https://www.linkedin.com/in/wendy-kuo/)
+- :globe_with_meridians: [Portfolio](http://wendyckuo.com/){:target="_blank" rel="noopener"}
+- [Linkedin](https://www.linkedin.com/in/wendy-kuo/){:target="_blank" rel="noopener"}
 - :envelope: weimmod@gmail.com
 
 
