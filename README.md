@@ -1,6 +1,6 @@
 
 ### Hey I am Wendy  :wave:
-#### I'm a full stack software engineer with a Master degree of Management of Information System and work experience in Cyber Security who recently graduated from App Academy's intensive 6-month coding bootcamp.
+I'm a full stack software engineer with a Master degree of Management of Information System and work experience in Cyber Security who recently graduated from App Academy's intensive coding bootcamp.
 
 ## :computer: Skills
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -25,7 +25,7 @@
 
 
 # Contact me
-## Get in touch with me
+ Get in touch with me
 
 :globe_with_meridians: [Portfolio](http://wendyckuo.com/)
 
