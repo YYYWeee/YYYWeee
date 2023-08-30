@@ -4,7 +4,7 @@
 I'm a full stack software engineer with a Master degree of Management of Information System and work experience in Cyber Security who recently graduated from App Academy's intensive coding bootcamp.
 <div id="header" align="center">
  
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG8wNjJrZG5kbnM1ZG83ZDVvaXI0aGR2bXdpYWVseHF6NHV2Nzg3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif"width="500" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG8wNjJrZG5kbnM1ZG83ZDVvaXI0aGR2bXdpYWVseHF6NHV2Nzg3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="500" />
 </div>
 
 ## :computer: Skills
