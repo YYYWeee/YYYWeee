@@ -1,5 +1,5 @@
 
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F78500&width=435&lines=Hey+I+am+Wendy;Welcome+to+my+repo)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F78500&width=435&lines=Hey+I+am+Wendy)](https://git.io/typing-svg)
 
 I'm a full stack software engineer with a Master degree of Management of Information System and work experience in Cyber Security who recently graduated from App Academy's intensive coding bootcamp.
 
