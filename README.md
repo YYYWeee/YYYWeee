@@ -8,7 +8,8 @@ I'm a full stack software engineer with a Master degree of Management of Informa
 - :seedling: I'm implementing more features for my projects.
 - :house: Based in Dallas, Texas
 - :zap: Fun Fact: I am a Certified Ethical Hacker
-- :mailbox:  How to reach me: [weimmod@gmail.com](weimmod@gmail.com)
+- :mailbox:  How to reach me: [weimmod@gmail.com](mailto:weimmod@gmail.com)
+  
 ## :computer: Skills
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
