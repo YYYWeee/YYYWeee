@@ -6,9 +6,10 @@ I'm a full stack software engineer with a Master degree of Management of Informa
 - All of my projects are available at [Portfolio](https://wendyckuo.com/)
 - :computer: I'm currently open for work
 - :seedling: I'm implementing more features to my projects.
-- :house: Based in Dallas, Texas
 - :zap: Fun Fact: I am a Certified Ethical Hacker
-- :mailbox:  How to reach me: [weimmod@gmail.com](mailto:weimmod@gmail.com)
+- :mailbox:  How to reach me: [weimmod@gmail.com](mailto:weimmod@gmail.com) | [Linkedin](https://www.linkedin.com/in/wendy-kuo/)
+- :house: Based in Dallas, Texas
+
   
 ## :computer: Skills
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
