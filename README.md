@@ -3,7 +3,7 @@
 
 I'm a full stack software engineer with a Master degree of Management of Information System and work experience in Cyber Security who recently graduated from App Academy's intensive coding bootcamp.
 
-- All of my projects are available at [Portfolio](https://wendyckuo.com/)
+- :mag_right: All of my projects are available at [Portfolio](https://wendyckuo.com/)
 - :computer: I'm currently open for work
 - :seedling: I'm implementing more features to my projects.
 - :zap: Fun Fact: I am a Certified Ethical Hacker
