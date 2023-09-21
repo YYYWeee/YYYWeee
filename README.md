@@ -8,7 +8,7 @@ I'm a full stack software engineer with a Master degree of Management of Informa
 - :computer: I'm currently open for work
 - :zap: Fun Fact: I am a Certified Ethical Hacker
 - :mailbox:  How to reach me: [weimmod@gmail.com](mailto:weimmod@gmail.com) | [Linkedin](https://www.linkedin.com/in/wendy-kuo/)
-- :triangular_flag_on_post:  Based in Dallas, Texas
+- :house:  Based in Dallas, Texas
 
   
 ## :computer: Skills
