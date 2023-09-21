@@ -4,8 +4,8 @@
 I'm a full stack software engineer with a Master degree of Management of Information System and work experience in Cyber Security who recently graduated from App Academy's intensive coding bootcamp.
 
 - :mag_right: All of my projects are available at [Portfolio](https://wendyckuo.com/)
-- :computer: I'm currently open for work
 - :seedling: I'm implementing more features to my projects.
+- :computer: I'm currently open for work
 - :zap: Fun Fact: I am a Certified Ethical Hacker
 - :mailbox:  How to reach me: [weimmod@gmail.com](mailto:weimmod@gmail.com) | [Linkedin](https://www.linkedin.com/in/wendy-kuo/)
 - :house: Based in Dallas, Texas
