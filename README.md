@@ -27,7 +27,7 @@ I'm a full stack software engineer with a Master degree of Management of Informa
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,aws" />
+    <img src="https://skillicons.dev/icons?i=git,docker,aws,flask,gcp,html,js,mysql,postgres,postman,py,react,redux,sqlite,vscode,express" />
   </a>
 </p>
 
