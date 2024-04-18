@@ -13,7 +13,9 @@ I'm a full stack software engineer with a Master degree of Management of Informa
   
 ## :computer: Skills
 
-<p align="left">
+
+
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,docker,aws,flask,gcp,html,js,mysql,postgres,postman,py,react,redux,sqlite,vscode,express,linux" />
   </a>
