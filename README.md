@@ -14,7 +14,7 @@ I'm a full stack software engineer with a Master degree of Management of Informa
 ## :computer: Skills
 
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,react,git,react,redux,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,react,git,react,redux,js,py,html,css,sqlite,postgres,postman,sequelize,)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YYYWeee&layout=pie)](https://github.com/YYYWeee/github-readme-stats)
 
